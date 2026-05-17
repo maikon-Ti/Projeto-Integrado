@@ -58,3 +58,33 @@ Desenvolvimento da cartilha em linguagem simples.
 Criação de checklist e código de conduta.
 
 Organização do projeto em formato acadêmico.
+4. DESENVOLVIMENTO
+4.1 Problemas Identificados
+Uso de senhas fracas.
+
+Compartilhamento indevido de dados.
+
+Falta de treinamento.
+
+Computadores sem atualização.
+
+4.2 Cartilha Digital
+Conteúdo com dicas práticas:
+
+Proteção de senhas.
+
+Cuidados com e-mails suspeitos.
+
+Orientações sobre LGPD.
+
+Prevenção contra golpes digitais.
+
+4.3 Checklist de Segurança
+Verificar senhas.
+
+Realizar backups semanais.
+
+Bloquear computadores ao se ausentar.
+
+Usar apenas redes seguras.
+
