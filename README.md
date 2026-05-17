@@ -58,7 +58,9 @@ Desenvolvimento da cartilha em linguagem simples.
 Criação de checklist e código de conduta.
 
 Organização do projeto em formato acadêmico.
+
 4. DESENVOLVIMENTO
+   
 4.1 Problemas Identificados
 Uso de senhas fracas.
 
