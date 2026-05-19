@@ -133,6 +133,9 @@ Prevenção de golpes digitais.
 5.3 Limitações
 Não inclui infraestrutura avançada.
 
+6. CONCLUSÃO
+A cartilha de segurança digital oferece medidas simples e acessíveis para pequenas empresas do setor hoteleiro. Com práticas básicas, é possível proteger dados, evitar golpes e cumprir a LGPD, fortalecendo a confiança dos clientes e a reputação da empresa.
+
 
 Usar apenas redes seguras.
 
