@@ -19,20 +19,9 @@ Gustavo Souza Chagas
 Maikon Nunes de Souza
 
 São Paulo – SP – 2026
+
+
 SUMÁRIO
-Introdução
-
-Fundamentação Teórica
-
-Metodologia
-
-Desenvolvimento
-
-Resultados e Discussão
-
-Conclusão
-Referências
-Anexos
 
 1. INTRODUÇÃO
 Pequenas pousadas e hotéis lidam diariamente com dados pessoais de hóspedes. A Lei Geral de Proteção de Dados (LGPD) exige que essas informações sejam protegidas. Porém, muitas empresas não possuem infraestrutura ou treinamento adequado, ficando vulneráveis a golpes digitais e vazamentos.
