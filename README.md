@@ -1,28 +1,26 @@
 FACULDADE ANHANGUERA – ITAQUERA
 
+Curso: Análise e Desenvolvimento de Sistemas – 1º Semestre
 
+Disciplina: Projeto Integrado
 
+Professor Orientador: Roberto Maia
 
+CARTILHA DE SEGURANÇA DIGITAL PARA PEQUENAS EMPRESAS DO SETOR HOTELEIRO
 
-PROJETO INTEGRADO
- ANÁLISE E DESENVOLVIMENTO DE SISTEMAS – 1º SEMESTRE
+Integrantes:
 
+Caio Henrique de Azevedo Galdino
 
+Felix Tavares Batista
 
+Gabriel Martins Ferreira
 
+Gustavo Souza Chagas
 
+Maikon Nunes de Souza
 
-
-
-CAIO HENRIQUE DE AZEVEDO GALDINO 
-FELIX TAVARES BATISTA 
-GABRIEL MARTINS FERREIRA 
-GUSTAVO SOUZA CHAGAS 
-MAIKON NUNES DE SOUZA
-
-
-
-SÃO PAULO, 2026.
+São Paulo – SP – 2026
 
 SUMÁRIO
 
@@ -126,8 +124,12 @@ Prevenção de golpes digitais.
 Não inclui infraestrutura avançada.
 
 6. CONCLUSÃO
+
 A cartilha de segurança digital oferece medidas simples e acessíveis para pequenas empresas do setor hoteleiro. Com práticas básicas, é possível proteger dados, evitar golpes e cumprir a LGPD, fortalecendo a confiança dos clientes e a reputação da empresa.
 
+8.  Referencia
 
-Usar apenas redes seguras.
+BRASIL. Lei Geral de Proteção de Dados Pessoais (LGPD). Lei nº 13.709, de 14 de agosto de 2018.
+
+
 
