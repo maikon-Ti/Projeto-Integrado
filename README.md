@@ -90,3 +90,49 @@ Bloquear computadores ao se ausentar.
 
 Usar apenas redes seguras.
 
+4.4 Código de Conduta
+Não compartilhar dados de hóspedes.
+
+Usar apenas sistemas autorizados.
+
+Reportar incidentes imediatamente.
+
+Respeitar a LGPD.
+
+4.5 Plano de Ação 30/60/90 Dias
+30 dias: troca de senhas e atualização dos computadores.
+
+60 dias: treinamento básico de funcionários.
+
+90 dias: rotina de backup e checklist diário.
+
+4.6 Matriz de Riscos
+Risco	Impacto	Probabilidade	Controle
+Senhas fracas	Alto	Alta	Política de senhas fortes
+Vazamento de dados	Alto	Média	Controle de acesso
+Phishing	Médio	Alta	Treinamento
+Perda de informações	Alto	Média	Backup semanal
+Uso indevido de dados	Alto	Média	Regras internas
+
+
+5. RESULTADOS E DISCUSSÃO
+5.1 Resultados Esperados
+Conscientização digital.
+
+Redução de riscos.
+
+Adequação básica à LGPD.
+
+5.2 Benefícios
+Proteção dos dados dos hóspedes.
+
+Aumento da confiança dos clientes.
+
+Prevenção de golpes digitais.
+
+5.3 Limitações
+Não inclui infraestrutura avançada.
+
+
+Usar apenas redes seguras.
+
